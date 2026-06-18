@@ -1,0 +1,9 @@
+{
+  "best_threshold": 0.47000000000000025,
+  "img_size": 260,
+  "model_path": "dermoscan_b2_best.keras",
+  "classes": {
+    "0": "benign",
+    "1": "malignant"
+  }
+}
